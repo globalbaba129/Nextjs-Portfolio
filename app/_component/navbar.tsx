@@ -107,7 +107,7 @@ const Navbar = () => {
               About
             </Link>
             <Link 
-              href="/web/services" 
+              href="/web/service" 
               className="block py-2 text-gray-800 hover:text-purple-600 transition-colors"
               onClick={closeMobileMenu}
             >
