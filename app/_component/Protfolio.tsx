@@ -190,25 +190,7 @@ const Portfolio1 = () => {
           </div>
         </div>
 
-         {/* Product 9 */}
-        <div className="bg-white border rounded-lg shadow hover:shadow-lg transition-shadow duration-300">
-          <div className="overflow-hidden h-56 w-full relative">
-            <Image
-              src={image10}
-              alt="Product 2"
-              layout="fill"
-              objectFit="cover"
-              className="hover:scale-105 transition-transform duration-300"
-            />
-          </div>
-          <div className="p-5 flex flex-col gap-2">
-            <h3 className="text-xl font-semibold text-gray-800">UK Airport Parking Dynamic Web Design</h3>
-            <br />
-            <Link href={'https://airportparkinghouse.com/'} target="_blank" rel="noopener noreferrer" className="mt-3 inline-block text-center px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-900 transition">
-          Open Website 
-            </Link>
-          </div>
-        </div>
+        
       </div>
       <br /><br />
     </div>
