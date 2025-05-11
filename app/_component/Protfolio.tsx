@@ -31,7 +31,7 @@ const Portfolio1 = () => {
           <div className="p-5 flex flex-col gap-2">
             <h3 className="text-xl font-semibold text-gray-800">The Construction Company Website</h3>
             <Link href={'https://www.newdubaibond.com/'} target="_blank" rel="noopener noreferrer" className="mt-3 inline-block text-center px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-900 transition">
-              Open Website ->
+              Open Website 
             </Link>
           </div>
         </div>
@@ -50,7 +50,7 @@ const Portfolio1 = () => {
           <div className="p-5 flex flex-col gap-2">
             <h3 className="text-xl font-semibold text-gray-800">Dental Clinic Website With Admin-Penal</h3>
             <Link href={'https://toothcareclinic.net/'} target="_blank" rel="noopener noreferrer" className="mt-3 inline-block text-center px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-900 transition">
-          Open Website ->
+          Open Website 
             </Link>
           </div>
         </div>
@@ -69,7 +69,7 @@ const Portfolio1 = () => {
             <h3 className="text-xl font-semibold text-gray-800">Software Agency</h3>
             <br />
             <Link href={'https://globaliconic.com'} target="_blank" rel="noopener noreferrer" className="mt-3 inline-block text-center px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-900 transition">
-          Open Website ->
+          Open Website 
             </Link>
           </div>
         </div>
@@ -88,7 +88,7 @@ const Portfolio1 = () => {
             <h3 className="text-xl font-semibold text-gray-800">Cars Sale & Buy Company</h3>
             <br />
             <Link href={'https://toothcareclinic.net/'} target="_blank" rel="noopener noreferrer" className="mt-3 inline-block text-center px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-900 transition">
-          Open Website ->
+          Open Website 
             </Link>
           </div>
         </div>
@@ -107,7 +107,7 @@ const Portfolio1 = () => {
             <h3 className="text-xl font-semibold text-gray-800">Pest Control Services Agency</h3>
             <br />
             <Link href={'https://friendspestsolutions.com/'} target="_blank" rel="noopener noreferrer" className="mt-3 inline-block text-center px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-900 transition">
-          Open Website ->
+          Open Website 
             </Link>
           </div>
         </div>
@@ -126,7 +126,7 @@ const Portfolio1 = () => {
             <h3 className="text-xl font-semibold text-gray-800">Friends Immigration Consultants</h3>
             <br />
             <Link href={'https://friends-consultant.com/'} target="_blank" rel="noopener noreferrer" className="mt-3 inline-block text-center px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-900 transition">
-          Open Website ->
+          Open Website 
             </Link>
           </div>
         </div>
@@ -145,7 +145,7 @@ const Portfolio1 = () => {
             <h3 className="text-xl font-semibold text-gray-800">EndTakSeo is a Software Agency</h3>
             <br />
             <Link href={'https://endtakseo.com/'} target="_blank" rel="noopener noreferrer" className="mt-3 inline-block text-center px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-900 transition">
-          Open Website ->
+          Open Website 
             </Link>
           </div>
         </div>
@@ -164,7 +164,7 @@ const Portfolio1 = () => {
             <h3 className="text-xl font-semibold text-gray-800">Builders & State Company</h3>
             <br />
             <Link href={'https://apniland.com/'} target="_blank" rel="noopener noreferrer" className="mt-3 inline-block text-center px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-900 transition">
-          Open Website ->
+          Open Website 
             </Link>
           </div>
         </div>
@@ -185,7 +185,7 @@ const Portfolio1 = () => {
             <br />
             <br />
             <Link href={'https://aiec.pk/'} target="_blank" rel="noopener noreferrer" className="mt-3 inline-block text-center px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-900 transition">
-          Open Website ->
+          Open Website 
             </Link>
           </div>
         </div>
@@ -205,7 +205,7 @@ const Portfolio1 = () => {
             <h3 className="text-xl font-semibold text-gray-800">UK Airport Parking Dynamic Web Design</h3>
             <br />
             <Link href={'https://airportparkinghouse.com/'} target="_blank" rel="noopener noreferrer" className="mt-3 inline-block text-center px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-900 transition">
-          Open Website ->
+          Open Website 
             </Link>
           </div>
         </div>
