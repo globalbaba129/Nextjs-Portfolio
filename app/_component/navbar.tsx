@@ -100,36 +100,34 @@ const Navbar = () => {
               Home
             </Link>
             <Link 
-              href="/about" 
+              href="/web/about" 
               className="block py-2 text-gray-800 hover:text-purple-600 transition-colors"
               onClick={closeMobileMenu}
             >
               About
             </Link>
             <Link 
-              href="/services" 
+              href="/web/services" 
               className="block py-2 text-gray-800 hover:text-purple-600 transition-colors"
               onClick={closeMobileMenu}
             >
               Services
             </Link>
             <Link 
-              href="/portfolio" 
+              href="/web/portfolio" 
               className="block py-2 text-gray-800 hover:text-purple-600 transition-colors"
               onClick={closeMobileMenu}
             >
               Portfolio
             </Link>
             <Link 
-              href="/contact" 
+              href="/web/contact" 
               className="block py-2 text-gray-800 hover:text-purple-600 transition-colors"
               onClick={closeMobileMenu}
             >
               Contact
             </Link>
-            <button className="w-full bg-purple-600 hover:bg-purple-700 text-white px-4 py-2 rounded-md transition-colors mt-4">
-              Get Started
-            </button>
+          
           </div>
         </div>
       </div>
